@@ -1,0 +1,1 @@
+This error occurs when you try to use a component that requires a specific context, but that context is unavailable.  For example, using a component from a library that expects a specific provider to be higher up in the component tree, but that provider isn't included.
